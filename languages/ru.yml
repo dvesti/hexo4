@@ -1,23 +1,23 @@
-archiveA: Archives
-archiveB: "Archives: %s"
+archiveA: Архив
+archiveB: "Архив по: %s"
 
-comments: Comments
+comments: Комментарии
 commentsGoTo: "Go to comment"
 commentsNo: "No comments yet. Press the button and go to comment now!"
 commentsRecent: "Recent Comments"
 
-contentsNo: "No contents."
+contentsNo: "Ничего нет"
 
-page: "Page %d"
-pageArchive: Archives
-pageHome: Home
-pageNext: Next
-pagePrev: Prev
-pageReadMore: "Read More"
-pageTop: Pin
+page: "Стр. %d"
+pageArchive: Архив
+pageHome: Главная
+pageNext: След.
+pagePrev: Пред.
+pageReadMore: "Читать дальше"
+pageTop: Прикрепленный
 
-widgetsCategories: Categories
-widgetsLinks: Links
-widgetsRecentPosts: "Recent Posts"
-widgetsSearch: Search
-widgetsTagcloud: "Tag Cloud"
+widgetsCategories: Категории
+widgetsLinks: Ссылки
+widgetsRecentPosts: "Последнее"
+widgetsSearch: Поиск
+widgetsTagcloud: "Облако тэгов"
