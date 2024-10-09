@@ -1,3 +1,5 @@
 [submodule "themes/freemind-plus"]
+
 	path = themes/freemind-plus
-	url = https://github.com/myyerrol/hexo-theme-freemind-plus.git
+
+	url = https://github.com/dvesti/hexo4.git
