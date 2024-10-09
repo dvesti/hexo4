@@ -224,3 +224,4 @@ You successfully read this important alert message.
 This alert needs your attention, but it's not super important.
 {% endalert %}
 
+![bootstrap](/images/tag-plugins/plugins.jpg)
