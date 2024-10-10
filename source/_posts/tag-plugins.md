@@ -9,7 +9,7 @@ tags:
   - plugins
 description: "Introduce tag plugins in freemind."
 feature: images/tag-plugins/plugins.jpg
-cover: images/tag-plugins/plugins.jpg
+cover: /images/tag-plugins/plugins.jpg
 toc: true
 ---
 
