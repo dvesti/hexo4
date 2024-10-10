@@ -6,7 +6,5 @@
 	path = themes/freemind-plus
 	url = https://github.com/myyerrol/hexo-theme-freemind-plus.git 
 	
-[submodule "themes/jacman"]
-	path = themes/jacman
-	url = https://github.com/wuchong/jacman.git	
+
 	
