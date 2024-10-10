@@ -14,7 +14,6 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://dvesti.github.io/hexo4
-root: /hexo4/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -98,8 +97,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-#theme: freemind-plus
-theme: freemind #wsgzao.github.io #jacman #freemind
+theme: freemind-plus
+#theme: freemind #wsgzao.github.io #jacman #freemind
 stylus:
   compress: true
 
@@ -127,10 +126,6 @@ menu:
     url: about
     intro: About me.
     icon: fa fa-user
-  - title: Поиск
-    url: search
-    intro: Поиск
-    icon: fa fa-user    
 
 links:
   - title: My Github
@@ -143,6 +138,7 @@ links:
     icon: fa fa-linkedin
 
 widgets:
+- search
 - category
 - tagcloud
 - recent_posts
