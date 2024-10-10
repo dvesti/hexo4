@@ -99,8 +99,8 @@ ignore:
 #theme: landscape
 theme: maupassant #freemind-plus
 #theme: freemind #wsgzao.github.io #jacman #freemind
-stylus:
-  compress: true
+#stylus:
+ # compress: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -302,4 +302,3 @@ css: css
 # Theme version
 version: 1.0.0
 
-localSearch: true
