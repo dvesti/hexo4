@@ -98,8 +98,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: freemind-plus
-#theme: freemind #wsgzao.github.io #jacman #freemind
+#theme: freemind-plus
+theme: freemind #wsgzao.github.io #jacman #freemind
 stylus:
   compress: true
 
