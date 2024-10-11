@@ -14,7 +14,6 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://dvesti.github.io/hexo4
-root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -98,71 +97,11 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-#theme: freemind-plus
-theme: jacman #freemind
+theme: freemind-plus
+#theme: freemind
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-  
-slogan: Yet another bootstrap theme.
-
-menu:
-  - title: Archives
-    url: archives
-    intro: All the articles.
-    icon: fa fa-archive
-  - title: Categories
-    url: categories
-    intro: All the categories.
-    icon: fa fa-folder
-  - title: Tags
-    url: tags
-    intro: All the tags.
-    icon: fa fa-tags
-  - title: About
-    url: about
-    intro: About me.
-    icon: fa fa-user
-
-links:
-  - title: My Github
-    url: http://www.github.com/wzpan
-    intro: My Github account.
-    icon: fa fa-github
-  - title: My LinkedIn
-    url: http://www.linkedin.com/in/hahack
-    intro: My Linkin account.
-    icon: fa fa-linkedin
-
-widgets:
-- search
-- category
-- tagcloud
-- recent_posts
-- links
-
-rss: atom.xml
-favicon: images/favicon.png
-fancybox: true
-duoshuo_shortname:
-twitterImage: images/favicon.png
-
-# analytics
-google_analytics:
-  enable: false
-  siteid:
-baidu_tongji:
-  enable: false
-  siteid:
-
-# Search
-swiftype_key:   
-
-search:
-  path: search.xml
-  field: post
-  content: true
-  template: ./search.xml
   
