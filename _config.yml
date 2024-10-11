@@ -138,7 +138,7 @@ theme: freemind-plus
 
 deploy:
   type: git
-  repo: https://dvesti.github.io/hexo4
+  repo: https://github.com/dvesti/hexo4
   branch: main
   message: [Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}]
   
