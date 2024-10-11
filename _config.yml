@@ -130,11 +130,14 @@ theme: freemind-plus
 #deploy:
  # type: ''
 
+#deploy:
+#  type: git
+#  repo: https://github.com/dvesti/hexo4 # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+#  branch: main
+#  message: [Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}]  
+
 deploy:
   type: git
-  repo: https://github.com/dvesti/hexo4 # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: main
-  message: [Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}]  
 
 menu:
   Index:
